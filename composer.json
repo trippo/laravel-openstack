@@ -10,13 +10,13 @@
     },
     "autoload": {
         "psr-4": {
-            "trippo\\": "src/trippo/"
+            "Trippo\\": "src/Trippo/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "trippo\\Filesystem\\OpenStackServiceProvider"
+                "Trippo\\Filesystem\\OpenStackServiceProvider"
             ]
         }
     }

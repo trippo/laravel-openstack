@@ -1,6 +1,6 @@
 <?php
 
-namespace Neoxia\Filesystem;
+namespace Trippo\Filesystem;
 
 use Illuminate\Support\ServiceProvider;
 use League\Flysystem\Filesystem;
