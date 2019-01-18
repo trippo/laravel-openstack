@@ -1,4 +1,4 @@
-[![Latest Stable Version](http://img.shields.io/github/release/neoxia/laravel-openstack.svg)](https://packagist.org/packages/neoxia/laravel-openstack)
+[![Latest Stable Version](http://img.shields.io/github/release/trippo/laravel-openstack.svg)](https://packagist.org/packages/trippo/laravel-openstack)
 
 ## Laravel OpenStack
 
@@ -9,7 +9,7 @@ This package provides a service provider to add a driver for OpenStack Object St
 Require this package with composer using the following command:
 
 ```
-composer require neoxia/laravel-openstack
+composer require trippo/laravel-openstack
 ```
 
 As of Laravel 5.5, this package will be automatically discovered and registered.
