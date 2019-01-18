@@ -16,7 +16,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Neoxia\\Filesystem\\OpenStackServiceProvider"
+                "trippo\\Filesystem\\OpenStackServiceProvider"
             ]
         }
     }
